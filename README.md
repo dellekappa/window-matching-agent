@@ -16,7 +16,7 @@ the generated agent.jar file will end up in the target folder
 Downloading binaries
 --------------------
 
-You can download a [recent binary](http://jelmer.s3.amazonaws.com/agent.jar) from amazon s3
+You can download a v1.0 [here](https://github.com/downloads/diega/window-matching-agent/agent-1.0.jar)
 
 Usage
 -----
